@@ -1,4 +1,4 @@
-# 🗳️ ChainPoll
+# 🗳️ ChainPoll(Created by - Swapnanil Ghosh)
 
 A simple, beginner-friendly smart contract that lets anyone create public polls, vote on options, and see transparent, on-chain results visible to everyone. Perfect for learning Solidity and showcasing trustless, tamper-evident polling on Ethereum-like networks! 🚀
 <img width="1897" height="863" alt="Screenshot 2025-10-29 135923" src="https://github.com/user-attachments/assets/094ee2a6-c27b-4f86-b6c6-f93c0b11c1fc" />
