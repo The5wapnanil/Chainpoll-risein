@@ -2,6 +2,11 @@
 
 A simple, beginner-friendly smart contract that lets anyone create public polls, vote on options, and see transparent, on-chain results visible to everyone. Perfect for learning Solidity and showcasing trustless, tamper-evident polling on Ethereum-like networks! 🚀
 
+<img width="1897" height="863" alt="Screenshot 2025-10-29 135923" src="https://github.com/user-attachments/assets/0d34cb34-1a72-4455-864f-d43d94ac9eed" />
+
+
+
+
 ## 📖 Project Description
 
 **ChainPoll** is a minimal on-chain polling system where users can create polls with multiple options, cast one vote per address, and view results at any time. It focuses on clarity, safety, and transparency, making it ideal for first projects and tutorials.
